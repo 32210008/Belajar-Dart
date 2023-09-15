@@ -1,3 +1,3 @@
 void main(){
-    print('Hello JURASIC World!!!');
+    print('Hello World!');
 }
